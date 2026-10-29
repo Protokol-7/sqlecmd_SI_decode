@@ -33,3 +33,7 @@ Single-CSV mode. `--pivot` gives one row per WorkId (indexed item) instead of on
 ## Requirements
 
 Python 3, standard library only.
+
+## License
+
+MIT, see [LICENSE](LICENSE).
